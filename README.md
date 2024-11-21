@@ -41,7 +41,7 @@ Bu proje, göğüs ultrason görüntülerini normal, iyi huylu (benign) ve köt�
 - Caner Ekinci
 - [Samet Özer](https://github.com/sametozerx "Samet Özer")
 - [Merve Ünal](https://github.com/merveunal26 "Merve Ünal")
-- Muhammet Recep Özer
+- [Muhammet Recep Özer](https://github.com/commonwanderer "Muhammet Recep Özer")
 
 ## Uygulama Arayüzü
 
