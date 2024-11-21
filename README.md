@@ -1,7 +1,7 @@
 # Breast Tumor Detection With MATLAB
 Bu proje, 2023 yılında Düzce Üniversitesi BM480 - Derin Öğrenme dersi içerisinde proje ödevi olarak yapılmıştır. Amacı, verilen görsel veri seti içerisinden en verimli evrişimli sinir ağını (CNN) elde etmekti. Proje, başarıyla tamamlanmış; sunum raporu /Rapor klasöründedir.
 
-##Emeği Geçenler
+## Emeği Geçenler
 - [Semih Güner](https://github.com/SemihGuner "Semih Güner")
 - Caner Ekinci
 - [Samet Özer](https://github.com/sametozerx "Samet Özer")
