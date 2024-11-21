@@ -5,7 +5,7 @@ Bu proje, 2023 yılında Düzce Üniversitesi BM480 - Derin Öğrenme dersi içe
 - [Semih Güner](https://github.com/SemihGuner "Semih Güner")
 - Caner Ekinci
 - [Samet Özer](https://github.com/sametozerx "Samet Özer")
-- Merve Ünal
+- [Merve Ünal](https://github.com/merveunal26 "Merve Ünal")
 - Muhammet Recep Özer
 
 ## Kaynakça (Sources)
