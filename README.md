@@ -36,6 +36,13 @@ Bu proje, göğüs ultrason görüntülerini normal, iyi huylu (benign) ve köt�
 | OurCNN        | Augmentsiz    | 0.85     | 0.86      | 0.79        | 0.82     |
 | OurCNN        | Augmentli     | 0.90     | 0.90      | 0.91        | 0.90     |
 
+## Emeği Geçenler
+- [Semih Güner](https://github.com/SemihGuner "Semih Güner")
+- Caner Ekinci
+- [Samet Özer](https://github.com/sametozerx "Samet Özer")
+- [Merve Ünal](https://github.com/merveunal26 "Merve Ünal")
+- Muhammet Recep Özer
+
 ## Uygulama Arayüzü
 
 ![image](https://github.com/user-attachments/assets/4c1e940d-c700-49c4-aab9-dcdc3a4379ce)
